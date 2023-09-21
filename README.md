@@ -40,7 +40,6 @@ npm start
 
 ## Demo
 
-![nosql](https://github.com/Tehila03/Social-Network-API/assets/125328462/01a1d75a-8e05-4da7-ba67-92783d2eb907)
 
 
 ## Questions
